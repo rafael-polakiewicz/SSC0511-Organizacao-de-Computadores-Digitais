@@ -25,6 +25,7 @@ SSC0511 - Organização de Computadores Digitais
 - Snake Trifásico: Eduardo Zaboto Mirolli, Leonardo Bellini dos Reis, Vinícius Luiz da Silva Genésio - https://github.com/LeoBellini/jogo
 - Bomberman: Gustavo Antonio Perin, João Vitor Monteiro, Marcelo Augusto Dos Reis - https://github.com/Bobagi/Bomberman
 -ICMC WARS: Gabriel Angelo Sgarbi Cocenza, Ingrid Hiromi Yagui Otani, Maria Vitória do N. Inocencio - https://github.com/gabrielcocenza/ICMC_WARS
+- DNA Snake: Felipe Melo, Rafael Marques - https://github.com/rafael-polakiewicz/trab_org_comp
 - Insira o seu projeto AQUI (Para a disciplina de LAB DE ORG vá  para: https://github.com/simoesusp/Processador-ICMC)
 
 -
